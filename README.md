@@ -1,5 +1,7 @@
 # La Importancia de los Gráficos en la Ciencia de Datos
 
+![Logo de Python](https://github.com/MontielAguilar/35-Uso-Graficos/blob/main/python-logo.png)
+
 Los gráficos desempeñan un papel fundamental en la ciencia de datos al permitirnos visualizar y comprender datos de manera efectiva. Aquí hay algunas razones por las que son esenciales:
 
 ## 1. **Comprensión Visual Instantánea**
