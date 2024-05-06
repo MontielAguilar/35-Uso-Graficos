@@ -18,7 +18,7 @@ Los gráficos desempeñan un papel fundamental en la ciencia de datos al permiti
 
 ## 4. **Validación y Verificación**
    - Los gráficos son una herramienta invaluable para validar los resultados de análisis.
-   - Permiten verificar si los modelos o hipótesis son consistentes con los datos observados.
+   - Permiten verificar si los modelos o hipótesis son consistentes con los datos observados
 
 ## Ejemplos de Gráficos Comunes:
 - **Gráfico de Barras:** Ideal para comparar categorías.
