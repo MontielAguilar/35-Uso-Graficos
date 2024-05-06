@@ -13,12 +13,12 @@ Los gráficos desempeñan un papel fundamental en la ciencia de datos al permiti
    - La visualización de datos ayuda a contar una historia convincente basada en evidencia.
 
 ## 3. **Identificación de Patrones y Tendencias**
-   - Los gráficos revelan patrones y tendencias que podrían no ser evidentes al examinar simplemente los números.
+   - Los gráficos revelan patrones y tendencias que podrían no ser evidentes al examinar simplemente los números
    - Pueden ayudar a predecir futuros resultados o comportamientos en base a datos históricos.
 
 ## 4. **Validación y Verificación**
    - Los gráficos son una herramienta invaluable para validar los resultados de análisis.
-   - Permiten verificar si los modelos o hipótesis son consistentes con los datos observados
+   - Permiten verificar si los modelos o hipótesis son consistentes con los datos observados.
 
 ## Ejemplos de Gráficos Comunes:
 - **Gráfico de Barras:** Ideal para comparar categorías.
