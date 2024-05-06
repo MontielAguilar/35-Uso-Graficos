@@ -9,11 +9,11 @@ Los gráficos desempeñan un papel fundamental en la ciencia de datos al permiti
    - Patrones, tendencias y anomalías pueden ser identificados rápidamente, lo que lleva a una comprensión más profunda de los datos.
 
 ## 2. **Comunicación Clara y Efectiva**
-   - Al presentar resultados a colegas o clientes, los gráficos hacen que la información sea más accesible y comprensible para un público no técnico.
+   - Al presentar resultados a colegas o clientes, los gráficos hacen que la información sea más accesible y comprensible para un público no técnico
    - La visualización de datos ayuda a contar una historia convincente basada en evidencia.
 
 ## 3. **Identificación de Patrones y Tendencias**
-   - Los gráficos revelan patrones y tendencias que podrían no ser evidentes al examinar simplemente los números
+   - Los gráficos revelan patrones y tendencias que podrían no ser evidentes al examinar simplemente los números.
    - Pueden ayudar a predecir futuros resultados o comportamientos en base a datos históricos.
 
 ## 4. **Validación y Verificación**
